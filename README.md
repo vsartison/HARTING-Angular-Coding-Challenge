@@ -13,7 +13,7 @@ The design and UX is completely up to you. We do not expect a fully designed app
 - overview page that displays all houses
 - each house has its own detail page
 - all Game of Thrones related data is retrieved from the [API](https://anapioficeandfire.com/)
-- provide your results using [GitHub](https://github.com/vsartison/HARTING-Angular-Coding-Challenge)
+- provide your results using [GitHub](https://github.com)
   - create a fork of this git
   - should contain:
     - a readme that explains us how to run your application (you can replace this readme)
