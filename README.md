@@ -13,13 +13,14 @@ The design and UX is completely up to you. We do not expect a fully designed app
 - overview page that displays all houses
 - each house has its own detail page
 - all Game of Thrones related data is retrieved from the [API](https://anapioficeandfire.com/)
-- provide your results using [GitHub](https://github.com) and send us a link to your “Game of Thrones API” implementation
+- provide your results using [GitHub](https://github.com)
   - should contain:
     - a readme that explains us how to run your application (you can replace this readme)
     - your angular code
     - a compiled version of your application
   - appreciated by us:
     - a commit history with more than one commit that contains all
+
 
 ## What's important to us
 
